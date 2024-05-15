@@ -1,4 +1,5 @@
 **Kebijakan Privasi untuk Aplikasi Alarm**
+
 Aplikasi alarm ini dioperasikan oleh mahasiswa Program Studi Teknik Informatika Universitas Muhammadiyah Purwokerto. Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda saat menggunakan aplikasi kami.
 
 **Informasi yang Kami Kumpulkan :**
